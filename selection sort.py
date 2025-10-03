@@ -1,6 +1,6 @@
 from manim import *
 
-class Algorithm(Scene):
+class Algorithm_selection(Scene):
     def construct(self):
 
         data = [2, 4, 5, 1, 3, 9, 6, 8, 7]  # raw unsorted data
@@ -59,4 +59,5 @@ class Algorithm(Scene):
                     items[i], items[min_index] = items[min_index], items[i]
 
         selection_sort(items)
+
         self.wait(frozen_frame=False)
