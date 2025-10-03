@@ -1,6 +1,6 @@
 from manim import *
 
-class Algorithm(Scene):
+class Algorithm_insertion(Scene):
     def construct(self):
 
         data = [2, 4, 5, 1, 3, 9, 6, 8, 7]  # raw unsorted data
