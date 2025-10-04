@@ -16,3 +16,9 @@ Currently implemented:
 The animations help illustrate how sorting algorithms work step by step by moving colored boxes representing numbers.
 
 Make sure you have [Manim Community Edition](https://docs.manim.community/en/stable/installation/uv.html) installed.
+
+# Demo
+
+![Merge sort](docs/merge.gif)
+
+![Insertion sort](docs/insertion.gif)
