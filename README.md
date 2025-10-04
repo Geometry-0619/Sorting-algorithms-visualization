@@ -1,5 +1,5 @@
 # Sorting-algorithms-visualization
-This project provides algorithm visualizations for classical sorting algorithms using Manim
+This project provides visualizations for classical sorting algorithms using Manim
 
 Currently implemented:
 
