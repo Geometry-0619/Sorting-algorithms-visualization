@@ -1,5 +1,5 @@
 # Sorting-algorithms-visualization
-This project provides algorithm visualizations for classical sorting algorithms using Manim。
+This project provides algorithm visualizations for classical sorting algorithms using Manim
 
 Currently implemented:
 
@@ -19,6 +19,10 @@ Make sure you have [Manim Community Edition](https://docs.manim.community/en/sta
 
 # Demo
 
+Merge sort:
+
 ![Merge sort](docs/merge.gif)
+
+Insertion sort:
 
 ![Insertion sort](docs/insertion.gif)
